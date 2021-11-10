@@ -14,13 +14,12 @@ class ForgotPasswordActivity : AppCompatActivity() {
         binding = ActivityForgotPasswordBinding.inflate(layoutInflater)
         setContentView(binding.root)
 
-        init{}
+        init()
+
 
     }
 
-
-
-    private fun init(function: () -> Unit) {
+    private fun init() {
         setSupportActionBar(binding.tbForgotPassword)
         supportActionBar?.setDisplayHomeAsUpEnabled(true)
     }

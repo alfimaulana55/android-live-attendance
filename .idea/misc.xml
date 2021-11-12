@@ -3,11 +3,14 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_btn_logout.xml" value="0.28541666666666665" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_btn_primary.xml" value="0.21770833333333334" />
+        <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_button_logout.xml" value="0.28541666666666665" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_capture_photo.xml" value="0.3" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_current_time_dialog.xml" value="0.1" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_edit_text.xml" value="0.21770833333333334" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_handler_bottom_sheet.xml" value="0.3" />
+        <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/bg_profile.xml" value="0.28541666666666665" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_left_24.xml" value="0.28854166666666664" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/drawable/ic_baseline_keyboard_arrow_right_24.xml" value="0.28854166666666664" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/activity_forgot_password.xml" value="0.33" />
@@ -17,6 +20,7 @@
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/bottom_sheet_attendance.xml" value="0.33" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_attendance.xml" value="0.22" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_history.xml" value="0.25" />
+        <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/fragment_profile.xml" value="0.2713541666666667" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/layout/layout_current_time_dialog.xml" value="0.25" />
         <entry key="..\:/Users/GB/AndroidStudioProjects/LiveAttendanceApp/app/src/main/res/menu/main_menu.xml" value="0.5" />
       </map>

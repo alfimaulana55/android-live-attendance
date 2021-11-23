@@ -17,7 +17,7 @@ android {
 
         //BASE_URL
         buildConfigField "String", "BASE_URL", "\"https://absenjoe.000webhostapp.com/api/\""
-//        buildConfigField "String", "BASE_IMAGE_URL", "\"http://35.240.152.225/storage/profile/\""
+        buildConfigField "String", "BASE_IMAGE_URL", "\"https://absenjoe.000webhostapp.com/storage/profile/\""
     }
 
     buildTypes {
